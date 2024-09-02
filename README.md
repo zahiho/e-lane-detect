@@ -23,6 +23,6 @@ Official PyTorch implementation for the following papers:
 ## Data 
 
 
-## Model Zoo
+## Pretrained Model
 The **pretrained models** in column `Released`.
 
