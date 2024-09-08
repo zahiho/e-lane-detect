@@ -1,0 +1,6 @@
+DATASET: ./data
+
+USING_GPU: TRUE
+GPU_ID: 0
+n_classes: 5
+model_path: ./model_zoo/Event_ld.pth
