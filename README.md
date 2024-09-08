@@ -1,6 +1,7 @@
 # Event-lanedetection
 Official PyTorch implementation for the following papers:
-- ** **  
+- ** Momentum Distillation-driven Event-based Lane
+Detection**  
 
 
 ## Highlights
